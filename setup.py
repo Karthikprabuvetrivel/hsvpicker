@@ -10,13 +10,13 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
   name = 'hsvpicker',
   packages = ['hsvpicker'],
-  version = '1.0',
+  version = '2.0',
   license='MIT',
   description = 'Finding HSV bounding values for tracking/masking an object.',
   author = 'Karthik Prabu V',
   author_email = 'sanjkar13@gmail.com',
   url = 'https://github.com/Karthikprabuvetrivel/hsvpicker',
-  download_url = 'https://github.com/Karthikprabuvetrivel/hsvpicker/archive/v1.0.tar.gz',
+  download_url = 'https://github.com/Karthikprabuvetrivel/hsvpicker/archive/v2.0.tar.gz',
   keywords = ['hsv', 'opencv', 'cv2', 'mask', 'track', 'object', 'images', 'videos'],
   install_requires=[
           'numpy',

@@ -1,1 +1,1 @@
-from hsvhub.hsv import HSV
+from hsvpicker.hsv import HSV
